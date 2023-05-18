@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UTS_bambangjurniawan</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="akmglacier">Akmglacier</string>
+    <string name="avalanche">Avalanche</string>
+    <string name="awm">Awm</string>
+    <string name="bloodraven">Bloodraven</string>
+    <string name="godzilla">Godzilla</string>
+    <string name="goldenpharaoh">Goldenpharaoh</string>
+    <string name="kar98k">Kar98k</string>
+    <string name="leonskenedy">Leons Kenedy</string>
+    <string name="m10">M10</string>
+    <string name="poseidonocean">Poseidonocean</string>
+    //desc char
+    <string name="desc_akmglaicer">Ini Adalah Skin Akmglacier.</string>
+    <string name="desc_avalanche">Ini Adalah Skin Avalanche</string>
+    <string name="desc_awm">Ini Adalah Skin Awm</string>
+    <string name="desc_bloodraven">Ini Adalah Skin Bloodraven</string>
+    <string name="desc_godzilla">Ini Adalah Skin Godzilla</string>
+    <string name="desc_goldenpharaoh">Ini Adalah Skin Goldenpharaoh</string>
+    <string name="desc_kar98k">Ini Adalah Skin Kar98k</string>
+    <string name="desc_leonskenedy">Ini Adalah Skin Leonkenedy</string>
+    <string name="desc_m10">Ini Adalah Skin M10",</string>
+    <string name="desc_poseidonocean">Ini Adalah Skin poseidonocean</string>
+    //profile
+    <string name="bambang">Bambang Kurniawan</string>
+    <string name="desc_bambang">NIM : 2010031806060  E-Mail : bambangkurniawan9652@gmail.com</string>
+</resources>
